@@ -1,0 +1,19 @@
+img {
+    height: 32px;
+    width: 281px;
+}
+
+a {
+    margin-right: 2rem;
+}
+
+.uptown-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.uptown-nav-right img {
+    width: 39px;
+    height: 39px;
+}
